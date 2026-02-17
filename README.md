@@ -1,3 +1,3 @@
 # Palindrome
 
- to check wether the string is a palindrome or not
+ To check wether the string is a palindrome or not
